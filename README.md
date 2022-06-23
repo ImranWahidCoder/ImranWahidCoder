@@ -1,6 +1,6 @@
 ### Hey there 👋
 - 🏫 I'm an ex student of B.Tech in Electronics Engineering at National Institute of Technology Rourkela
-- 🧑‍💻 I'm an upcoming SWE at Mathworks
+- 🧑‍💻 I'm an upcoming SWE at MathWorks
 - 🖥 I'm a web-developer and I love problem solving and DSA
 - 🤓 Currently I am looking for full stack development internships
 - 📨 You can mail me at imran2018wahid@gmail.com
