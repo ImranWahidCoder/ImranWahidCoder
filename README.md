@@ -2,7 +2,7 @@
 - 💻 I'm currently working as an associate software engineer at MathWorks
 - 🏫 I'm an ex student of B.Tech in Electronics Engineering at National Institute of Technology Rourkela
 - 🖥 I'm a web-developer and I love problem solving and DSA
-- 🤓 Currently I am looking for full stack development internships
+- 🤓 Currently I am looking for SDE 1 openings
 - 📨 You can mail me at imran2018wahid@gmail.com
 - 💻 You can connect with me via linkedIn https://www.linkedin.com/in/imu2018/
 
